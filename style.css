@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h3{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin-right: 50px;
+    margin-left: 50px;
+    background-color: ghostwhite;
+    border-color: gray;
+    border-style: groove;
+}
+
+h4{
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 50px;
+    background-color: ghostwhite;
+    border-color: gray;
+    border-style: groove;
+    margin-right: 50%;
+}
+
+body{
+    background-image: url(backgroundmain.PNG);
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+    background-attachment: fixed;
+}
